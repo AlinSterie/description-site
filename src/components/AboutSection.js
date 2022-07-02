@@ -75,10 +75,7 @@ export default function AboutSection() {
     <AboutSectionStyles>
       <div className="container">
         <div className="aboutSection__left">
-          <SectionTitle
-            subheading=" "
-            heading="Despre noi"
-          />
+          <SectionTitle subheading=" " heading="Despre noi" />
           <PText>
             I am a freelance website designer and developer from Chittagong,
             Bangladesh. I create professional websites. I love art and always

@@ -27,7 +27,7 @@ export default function ContactBanner() {
     <ContactBannerStyles>
       <div className="container">
         <div className="contactBanner__wrapper">
-          <PText></PText>
+          <PText />
           <h3 className="contactBanner__heading">Vrei să construiești ceva?</h3>
           <Button btnText="Contactează-ne acum!" btnLink="/contact" />
         </div>
